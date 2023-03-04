@@ -5,7 +5,7 @@ import logo from '../../assets/logo.svg'
 const Menu = () =>(
   <>
         <p><a href="#home">Home</a></p>
-          <p><a href="#wgpt3">What is GPT?</a></p>
+          <p><a href="#wgpt3">What is Vessna3D?</a></p>
           <p><a href="#pos">Open AI</a></p>
           <p><a href="#features">Case Studies</a></p>
           <p><a href="blog">Library</a></p>
@@ -17,7 +17,7 @@ const Navbar = () => {
     <div className = "gpt3__navbar">
       <div className = "gpt3__navbar-links">
         <div className = "gpt3__navbar-links_logo">
-          <img src={logo} alt = "logo"/>
+          <p className = "logo">Vessna3D</p>
         </div>
         <div className = "gpt3__navbar-links_container">
         <Menu/>
