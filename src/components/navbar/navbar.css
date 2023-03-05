@@ -32,16 +32,7 @@
     align-items: center;
    
 }
-.logo{
-    color:#fff;
-    font-family: var(--font-family);
-    font-weight:900;
-    font-size: 20px;
-    line-height:25px;
-    text-transform:capitalize;
-    margin: 0 1rem;
-    cursor: pointer;
-}
+
 .gpt3__navbar-links_container p,
 .gpt3__navbar-sign p,
 .gpt3__navbar-menu_container p{
