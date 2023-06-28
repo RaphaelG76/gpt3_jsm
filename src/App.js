@@ -16,8 +16,8 @@ const App = () => (
     <Features />
     <Pos />
     <CTA />
-    <Footer />
     <Blog />
+    <Footer />
   </div>
 );
 
